@@ -1,0 +1,1 @@
+vc	number_of_articles_in_crunchbase	founding_time
